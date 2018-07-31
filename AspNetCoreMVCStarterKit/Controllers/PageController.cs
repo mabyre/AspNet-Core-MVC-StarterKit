@@ -13,6 +13,7 @@ namespace AspNetCoreMVCStarterKit.Controllers
             return View();
         }
 
+        // Ajout d'un petit commentaire
         public ActionResult PageAccordion()
         {
             ViewBag.Message = "Your Accordion's Page.";
