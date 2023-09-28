@@ -1,4 +1,7 @@
-﻿
+﻿___Date : 01/08/2018
+je cherche à faire fonctionner mon accordion et je vois dans mon ancien post qu'il faut installer 
+
+
 je créé une page Accordion en sachant que JQuery n'a aucune chance de fonctionner ici mais on va regarder pourquoi ...
 
 ___Date : 31/07/2018 Tout comme le AspNetMVCStarterKit mais avec .NET Core ...
