@@ -20,6 +20,11 @@ http://localhost:62903
 
 Next Step: I'll try to update as github asked to me.
 
+Gravité	Code	Description
+Erreur	NU1202	Le package Microsoft.AspNetCore.All 2.2.8 n'est pas compatible avec netcoreapp2.0 (.NETCoreApp,Version=v2.0). Le package Microsoft.AspNetCore.All 2.2.8 prend en charge : netcoreapp2.2 (.NETCoreApp,Version=v2.2)	AspNetCoreMVCStarterKit	D:\Mabyre\Visual Studio\mabyre.github\AspNetCoreMVCStarterKit\AspNetCoreMVCStarterKit\AspNetCoreMVCStarterKit.csproj	1	
+
+Ok now I have to install new version of .NETCoreApp
+
 Have fun!
 
 
